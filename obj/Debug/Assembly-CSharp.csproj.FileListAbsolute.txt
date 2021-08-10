@@ -1,0 +1,2 @@
+C:\Users\stefa\Documents\EPOSProjekat\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Documents\EPOSProjekat\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
